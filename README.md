@@ -1,4 +1,4 @@
-# RDataMunging
+# Data Munging With Julia (DMWJ)
 
-* Some example of R scripts to munge data using various type of messy Data
+* Some examples of Julia scripts to munge data using various type of messy Data.
 
